@@ -1,3 +1,5 @@
+# Calcular a  média de uma aluno.
+
 def resultado_final():
     aluno = input("Digite seu nome!")
     print("Seu nome é: " + aluno)
