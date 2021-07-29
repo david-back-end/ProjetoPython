@@ -1,3 +1,5 @@
+# Menu de opções
+
 print( "OP:1 = Abrir LOL - OP:2 = Fechar LOL - OP:3 = Abrir COD - OP:4 = Fechar COD - OP:5 = Sair do menu")
 
 def opcao(menu = 0):
